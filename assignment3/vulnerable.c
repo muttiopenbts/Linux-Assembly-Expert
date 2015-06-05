@@ -1,6 +1,7 @@
 /* vulnerable.c
     Author: Mutti K
     Purpose: Demonstrate egg hunter shellcode. Supply shellcode as param 1 and overflow + egg hunter in param 2.
+        Crashs when param 2 is 76 bytes
 */
 #include <stdio.h>
 #include <string.h>
