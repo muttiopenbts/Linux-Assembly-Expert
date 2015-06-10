@@ -1,4 +1,4 @@
-;; mkdir_mkdir_poly_shellcode.nasm
+;; mkdir_poly_shellcode.nasm
 ; Author: Mutti K
 ; Purpose: Demonstrate polymorphic version of mkdir shellcode.
 
